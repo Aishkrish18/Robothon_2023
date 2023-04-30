@@ -2,13 +2,13 @@
  Authors : Adithya Kumar Chinnakonda Ravi, Aishwarya Krishnamurthy, Charan Raja Sathish
 ## Hardware Setup
  The robot setup used for this grand challenge is as shown below. 
- <img src="robothon_vision/assets/setup.jpeg" width="500" height="700">
+ <img src="setup.jpeg" width="500" height="700">
  
  
  We use a Realsense d435i and a custom made 3d printed gripper along with the 2F85 gripper. 
  
- <img src="robothon_vision/assets/realsense.jpg" width="250" height="100">
- <img src="robothon_vision/assets/gripper.jpeg" width="250" height="350">
+ <img src="realsense.jpg" width="250" height="100">
+ <img src="gripper.jpeg" width="250" height="350">
 
  The setup consists of : 
  - UR5e universal robotic Arm mounted on an aluminium frame placed behind the table where the taskboard is placed
